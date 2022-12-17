@@ -1,7 +1,16 @@
-# flutter_pacman
+# pacman_game
 
-Cloning the **PacMan** game with **Flutter** and the **Flame** library!
+A new Flutter project.
 
-## Presenting the App
+## Getting Started
 
-<img src="https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/b8068092900513.5e5707857c0dd.png" alt="Auth Page" width="250"/> <img src="https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/1827f992900513.5e5707857bb2f.png" alt="Auth Page" width="250"/> <img src="https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/ca13bd92900513.5e5707857cd3b.png" alt="Auth Page" width="250"/>
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
